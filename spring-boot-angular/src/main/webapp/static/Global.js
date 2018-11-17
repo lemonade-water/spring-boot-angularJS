@@ -1,0 +1,2 @@
+var menuList;
+var user;
